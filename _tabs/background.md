@@ -16,7 +16,7 @@ views:
 
 ## 引言(废话)
 
-因本人([yexca](https://blog.yexca.xyz/index.php/author/yexca/))技术力过低，本站多次崩溃并重装，此页面将从使用主题[Argon](https://github.com/solstice23/argon-theme)后使用的背景开始记录
+因本人技术力过低，本站多次崩溃并重装，此页面将从使用主题[Argon](https://github.com/solstice23/argon-theme)后使用的背景开始记录
 
 ## 正文
 
