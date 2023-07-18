@@ -39,4 +39,4 @@ tags:
 注意设置“Expiration”即Token期限  
 重新创建后需要在PicX将“图床配置下重置下”
 
-具体参考：[使用PicX自建免费图床 – yexca’Blog](https://blog.yexca.net/archives/27/)
+具体参考：[使用PicX自建免费图床 – yexca’Blog](https://blog.yexca.net/archives/27)

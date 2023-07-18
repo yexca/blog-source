@@ -68,7 +68,7 @@ sudo dnf config-manager \
 
 ### 下载 RPM 包
 
-在 [官网 Download 处]([Install Docker Desktop on Linux - Docker Documentation](https://docs.docker.com/desktop/install/linux-install/)) 下载
+在 [官网 Download 处](https://docs.docker.com/desktop/install/linux-install/) 下载
 
 下载完成后直接双击安装
 

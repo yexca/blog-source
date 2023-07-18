@@ -91,7 +91,7 @@ systemctl start docker
 
 ## Cookie获取
 
-获取米游社Cookie请参考：[原神树脂查看/推送 – yexca|Hiyoung'Blog](https://yexca.xyz/index.php/2021/11/10/原神树脂查看-推送/)
+获取米游社Cookie请参考：[原神树脂查看/推送 – yexca'Blog](https://yexca.xyz/archives/12)
 
 **注意**：Cookie 应包含`account_id`和`cookie_token`两个字段
 
