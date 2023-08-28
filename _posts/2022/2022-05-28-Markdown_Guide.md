@@ -30,7 +30,7 @@ tags:
 
 最近因建[网盘网站](https://pan.vrchat.yexca.xyz/)了解了一下 Markdown，发现这玩意非常好用，于是写一份学习笔记
 
-可以通过[在线编辑器 ](https://markdown.com.cn/editor/)边看边学，也可下载一些[编辑器](https://markdown.com.cn/tools.html)
+可以通过[在线编辑器](https://markdown.com.cn/editor/)边看边学，也可下载一些[编辑器](https://markdown.com.cn/tools.html)
 
 个人编写Markdown的工具为 [Typora](https://www.typora.io/)
 
@@ -52,15 +52,15 @@ tags:
 
 效果如下
 
-# 这是一级标题<!-- {docsify-ignore} -->
+# 这是一级标题
 
-## 这是二级标题<!-- {docsify-ignore} -->
+## 这是二级标题
 
-### 这是三级标题<!-- {docsify-ignore} -->
+### 这是三级标题
 
 ······
 
-###### 这是六级标题<!-- {docsify-ignore} -->
+###### 这是六级标题
 
 # 换行
 
