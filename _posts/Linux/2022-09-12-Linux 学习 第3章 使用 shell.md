@@ -26,7 +26,7 @@ tags:
     - 读书笔记
 ---
 
-## 第四章 使用 shell
+## 第三章 使用 shell
 
 本章介绍的 Linux shell 称为 Bash shell，其全称为 Bourne Again shell。还有其他的 shell，例如在 BSD UNIX 用户中流行的 C shell (csh) ，以及在 UNIX System V 用户中非常流行的 Korn shel (ksh) ，Ubuntu 默认启动 Dash shell (速度比 Bash快) ，还有 Tcsh shell (一种改进的 C shell) 和 Ash shell (与 Bourne shell 非常相似)
 
@@ -120,7 +120,7 @@ ls --hide=Desktop
 
 通过 `echo $PATH` 以查看 shell 的环境变量 PATH
 
-参考：[Linux 下 bin 目录 - yexca|Hiyoung‘Blog](https://yexca.xyz/index.php/2022/08/31/linux%e4%b8%8bbin%e7%9b%ae%e5%bd%95/)
+参考：[Linux 下 bin 目录 - yexca‘Blog](https://blog.yexca.net/archives/60)
 
 与其他一些操作系统不同的是，默认情况下，在搜索路径之前，Linux 并不会为了查找可执行文件检查当前目录，而是马上开始搜索路径，只有在可执行文件位于 PATH 环境变量或者给定了可执行文件的绝对地址或相对地址时，才会运行当前目录的可执行文件
 
