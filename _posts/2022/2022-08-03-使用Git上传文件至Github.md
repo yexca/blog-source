@@ -33,17 +33,17 @@ tags:
 
 ### 1. 复制仓库地址
 
-![使用Git上传文件至Github_1](https://cdn.staticaly.com/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_1.3syztscmys80.jpg)
+![使用Git上传文件至Github_1](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_1.3syztscmys80.jpg)
 
 ## 本地端操作
 
 ### 1. 在本地新建一个空文件夹
 
-![使用Git上传文件至Github_2](https://cdn.staticaly.com/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_2.5nufudqca7w0.jpg)
+![使用Git上传文件至Github_2](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_2.5nufudqca7w0.jpg)
 
 <center style="font-size:15px;color:#FFFFF;text-decoration:underline">我这里已经clone完成</center>### 2. 在文件夹内呼出Git Bash框
 
-![使用Git上传文件至Github_3](https://cdn.staticaly.com/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_3.5l2lii1fkd80.jpg)
+![使用Git上传文件至Github_3](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/%E4%BD%BF%E7%94%A8Git%E4%B8%8A%E4%BC%A0%E6%96%87%E4%BB%B6%E8%87%B3Github_3.5l2lii1fkd80.jpg)
 
 ### 3. Clone远程仓库
 

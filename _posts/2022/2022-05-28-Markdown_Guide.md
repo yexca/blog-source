@@ -315,12 +315,12 @@ _____
 例如以下代码
 
 ```markdown
-![图片](https://cdn.staticaly.com/gh/yexca/image_hosting@master/2023/04-网站背景/blog-background.2p10z489pjc0.webp "这是本站的背景")
+![图片](https://cdn.statically.io/gh/yexca/image_hosting@master/2023/04-网站背景/blog-background.2p10z489pjc0.webp "这是本站的背景")
 ```
 
 效果如下
 
-![图片](https://cdn.staticaly.com/gh/yexca/image_hosting@master/2023/04-网站背景/blog-background.2p10z489pjc0.webp "这是本站的背景")
+![图片](https://cdn.statically.io/gh/yexca/image_hosting@master/2023/04-网站背景/blog-background.2p10z489pjc0.webp "这是本站的背景")
 
 ## 图片包含链接
 
@@ -329,12 +329,12 @@ _____
 例如以下代码
 
 ```markdown
-[![图片](https://cdn.staticaly.com/gh/yexca/image_hosting@master/2023/04-网站背景/blog-background.2p10z489pjc0.webp)](https://www.pixiv.net/artworks/82542737)
+[![图片](https://cdn.statically.io/gh/yexca/image_hosting@master/2023/04-网站背景/blog-background.2p10z489pjc0.webp)](https://www.pixiv.net/artworks/82542737)
 ```
 
 效果如下
 
-[![图片](https://cdn.staticaly.com/gh/yexca/image_hosting@master/2023/04-网站背景/blog-background.2p10z489pjc0.webp)](https://www.pixiv.net/artworks/82542737)
+[![图片](https://cdn.statically.io/gh/yexca/image_hosting@master/2023/04-网站背景/blog-background.2p10z489pjc0.webp)](https://www.pixiv.net/artworks/82542737)
 
 # 转义字符
 

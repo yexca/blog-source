@@ -222,7 +222,7 @@ CreateObject("WScript.Shell").Run "C:\Users\he ne\Downloads\aria2c.exe --conf-pa
 
 3. 打开index.html
 
-![](https://cdn.staticaly.com/gh/hiyoung3937/img_hiyoung@master/bolg/Aria2+AriaNG%E9%85%8D%E7%BD%AE%E4%BD%BF%E7%94%A8_1.1ohxweqn3ayo.jpg)
+![](https://cdn.statically.io/gh/hiyoung3937/img_hiyoung@master/bolg/Aria2+AriaNG%E9%85%8D%E7%BD%AE%E4%BD%BF%E7%94%A8_1.1ohxweqn3ayo.jpg)
 
 打开里面的 index.html 文件，如果显示 “已连接”，则表明搭建成功
 
