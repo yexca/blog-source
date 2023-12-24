@@ -24,4 +24,4 @@ views:
 
 2022.01.30 | 作者：[MISSILE228](https://www.pixiv.net/users/429077) | PID：[82542737](https://www.pixiv.net/artworks/82542737)
 
-![](https://cdn.staticaly.com/gh/yexca/image_hosting@master/2023/04-%E7%BD%91%E7%AB%99%E8%83%8C%E6%99%AF/blog-background.2p10z489pjc0.webp)
+![](https://cdn.jsdelivr.net/gh/yexca/image_hosting@master/2023/04-%E7%BD%91%E7%AB%99%E8%83%8C%E6%99%AF/blog-background.2p10z489pjc0.webp)
