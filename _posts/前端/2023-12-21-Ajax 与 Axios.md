@@ -13,8 +13,6 @@ tags:
     - Axios
 ---
 
-# Ajax 与 Axios
-
 Asynchronous JavaScript And XML，异步的 JS 和 XML。作用：
 
 * 数据交换：通过 Ajax 可以给服务器发送请求，并获取服务器响应的数据
