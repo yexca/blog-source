@@ -11,6 +11,7 @@ um_content_restriction:
 views:
     - '200'
 categories:
+    - 编程基础
     - 数据库
 ---
 
