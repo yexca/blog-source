@@ -28,7 +28,7 @@ tags:
 
 ## 引言
 
-近期入正了Beat Saber(虽然是阿区)，于是便想着去添加自定义歌曲，通过steam的评论区得知[WGzeyu](https://gtxcn.com/)大佬做了相关教程，但由于本人目的简单，而教程比较全，特写此文章进行总结
+近期入正了Beat Saber(虽然是阿区)，于是便想着去添加自定义歌曲，通过steam的评论区得知[WGzeyu](https://bs.wgzeyu.com/)大佬做了相关教程，但由于本人目的简单，而教程比较全，特写此文章进行总结
 
 ## 一、准备
 
@@ -115,4 +115,4 @@ tags:
 
 ## 三、后续
 
-当然，如果您有其他需求请参考[WGzeyu](https://gtxcn.com/)的[教程](https://bs.wgzeyu.com/pc-guide/)
+当然，如果您有其他需求请参考[WGzeyu](https://bs.wgzeyu.com/)的[教程](https://bs.wgzeyu.com/pc-guide/)
