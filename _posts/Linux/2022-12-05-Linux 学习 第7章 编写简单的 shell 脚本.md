@@ -22,6 +22,7 @@ views:
     - '132'
 categories:
     - Linux
+    - LinuxStudy
 tags:
     - 读书笔记
 ---

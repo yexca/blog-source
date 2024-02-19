@@ -24,6 +24,7 @@ argon_custom_css:
     - ''
 categories:
     - Linux
+    - LinuxStudy
 ---
 
 注意：此方法为临时连接，虚拟机重启或关机需要重新配置

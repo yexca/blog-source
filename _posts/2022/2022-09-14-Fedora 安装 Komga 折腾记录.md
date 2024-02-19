@@ -21,6 +21,7 @@ argon_custom_css:
 views:
     - '472'
 categories:
+    - 日常
     - 折腾记录
 tags:
     - Docker

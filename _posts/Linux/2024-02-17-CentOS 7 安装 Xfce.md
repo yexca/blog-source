@@ -7,6 +7,7 @@ date: 2024-02-17 22:51 +0800
 permalink: /archives/153
 categories:
     - Linux
+    - LinuxTools
 ---
 
 ~~这是什么时候写的文章啊（~~

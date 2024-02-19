@@ -7,6 +7,7 @@ date: 2023-10-21 14:18 +0800
 permalink: /archives/129
 categories:
     - Linux
+    - LinuxStudy
 tags:
     - 读书笔记
 ---

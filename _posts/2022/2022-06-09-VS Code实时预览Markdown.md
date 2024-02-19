@@ -21,7 +21,8 @@ argon_custom_css:
 views:
     - '245'
 categories:
-    - 软件配置
+    - 软件工具
+    - 编码相关
 tags:
     - Markdown
     - 'VS Code'

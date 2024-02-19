@@ -11,7 +11,8 @@ um_content_restriction:
 views:
     - '251'
 categories:
-    - 技术工具
+    - 软件工具
+    - 娱乐相关
 ---
 
 ## 前言

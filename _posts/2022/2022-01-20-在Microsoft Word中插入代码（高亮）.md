@@ -11,7 +11,8 @@ um_content_restriction:
 views:
     - '285'
 categories:
-    - 软件配置
+    - 软件工具
+    - 工具网站
 ---
 
 ## 引言(废话)

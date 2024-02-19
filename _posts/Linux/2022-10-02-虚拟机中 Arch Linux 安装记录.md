@@ -22,6 +22,7 @@ views:
     - '260'
 categories:
     - Linux
+    - LinuxStudy
 ---
 
 ## 引言

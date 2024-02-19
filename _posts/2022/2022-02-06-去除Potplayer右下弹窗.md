@@ -21,7 +21,8 @@ argon_custom_css:
 views:
     - '690'
 categories:
-    - 软件配置
+    - 软件工具
+    - 娱乐相关
 ---
 
 ## 引言

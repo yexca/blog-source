@@ -21,7 +21,8 @@ argon_custom_css:
 views:
     - '330'
 categories:
-    - 软件配置
+    - Linux
+    - LinuxTools
 tags:
     - Youtube
 ---

@@ -11,7 +11,8 @@ um_content_restriction:
 views:
     - '242'
 categories:
-    - 软件配置
+    - 软件工具
+    - 编码相关
 tags:
     - Python
     - 'VS Code'

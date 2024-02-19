@@ -21,7 +21,8 @@ argon_custom_css:
 views:
     - '436'
 categories:
-    - 技术工具
+    - 软件工具
+    - 编码相关
 tags:
     - Markdown
 ---
