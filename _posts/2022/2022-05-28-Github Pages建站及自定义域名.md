@@ -72,7 +72,7 @@ $ git config --global user.email "yexcano@gmail.com"
 
 然后软件会出现一个仓库变动界面，右方会有一些快捷操作
 
-![软件界面](https://cdn.jsdelivr.net/gh/yexca/image_hosting@master/20220528/image.43qnbq0gw800.webp)
+![软件界面](https://cdn.jsdelivr.net/gh/yexca/picx-images-hosting@master/2022/05-GithubPages建站/image.43qnbq0gw800.webp)
 
 这里我使用VS Code，点击“Open in Visual Studio Code”在VS Code打开
 

@@ -42,7 +42,7 @@ tags:
 
 在Markdown文件右上角有个`打开侧边预览`预览，点击即可
 
-![实时预览按钮](https://cdn.jsdelivr.net/gh/yexca/image_hosting@master/20220528/image.2x0ji2pjqik0.webp)
+![实时预览按钮](https://cdn.jsdelivr.net/gh/yexca/picx-images-hosting@master/2022/06-VsCode-嘉然/image.2x0ji2pjqik0.webp)
 
 # 控制台
 
