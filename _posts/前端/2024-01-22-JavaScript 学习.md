@@ -658,7 +658,7 @@ Document 对象中提供了以下获取 Element 元素对象的函数
 1. 根据 id 属性值获取，返回单个 Element 对象
 
 ```javascript
-var app = document.getElementBuId('app');
+var app = document.getElementById('app');
 ```
 
 2. 根据标签名称获取，返回 Element 对象数组
